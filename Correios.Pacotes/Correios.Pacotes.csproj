@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>tbertuzzi</Authors>
+    <Company>KBits</Company>
+    <Description>Serviço para Obter informações de pacotes dos correios Brasileiros.</Description>
+    <PackageTags>xamarin netstandard correios pacotes  xamarin.forms</PackageTags>
+    <Copyright>KBits</Copyright>
+    <PackageIconUrl>https://github.com/TBertuzzi/Correios.Pacotes/blob/master/Resources/icone.png?raw=true</PackageIconUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MS-PL</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/TBertuzzi/Correios.Pacotes</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TBertuzzi/Correios.Pacotes</RepositoryUrl>
+    <PackageReleaseNotes>Versão Inicial</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
