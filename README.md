@@ -15,8 +15,8 @@ Obtenha informações dos seus pacotes ou encomendas dos correios brasileiros.
 
 |Name|Info|
 | ------------------- | :------------------: |
-|PageControl|[![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Correios.Pacotes/)|
-|Build status|[![appveyor](https://img.shields.io/teamcity/codebetter/bt428.svg)](https://ci.appveyor.com/project/ThiagoBertuzzi/correios-pacotes/)|
+|PageControl|[![NuGet](https://buildstats.info/nuget/Correios.Pacotes)](https://www.nuget.org/packages/Correios.Pacotes/)|
+
 
 Exemplo
 
