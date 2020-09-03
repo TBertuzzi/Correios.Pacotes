@@ -90,7 +90,7 @@ namespace Correios.Pacotes.Services
                         else
                         {
                             if (status != null)
-                                status.Obervacao = columns[0].InnerText.RemoveQuebraLinha();
+                                status.Observacao = columns[0].InnerText.RemoveQuebraLinha();
                         }
                     }
                 }
