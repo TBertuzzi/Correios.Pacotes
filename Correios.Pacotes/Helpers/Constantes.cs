@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Correios.Pacotes.Helpers
+﻿namespace Correios.Pacotes.Helpers
 {
     internal static class Constantes
     {

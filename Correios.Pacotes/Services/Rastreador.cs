@@ -1,14 +1,14 @@
-﻿using Correios.Pacotes.Helpers;
+﻿using Correios.Pacotes.Exceptions;
+using Correios.Pacotes.Extensions;
+using Correios.Pacotes.Helpers;
 using Correios.Pacotes.Models;
+using CsQuery;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using CsQuery;
-using System.Linq;
-using Correios.Pacotes.Extensions;
-using Correios.Pacotes.Exceptions;
 
 namespace Correios.Pacotes.Services
 {
