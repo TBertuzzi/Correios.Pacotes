@@ -15,7 +15,7 @@ Obtenha informações dos seus pacotes ou encomendas dos correios brasileiros.
 
 |Name|Info|
 | ------------------- | :------------------: |
-|PageControl|[![NuGet](https://buildstats.info/nuget/Correios.Pacotes)](https://www.nuget.org/packages/Correios.Pacotes/)|
+|Correios.Pacotes|[![NuGet](https://buildstats.info/nuget/Correios.Pacotes)](https://www.nuget.org/packages/Correios.Pacotes/)|
 
 
 Exemplo
