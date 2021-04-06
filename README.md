@@ -31,7 +31,7 @@ Exemplo
             Console.WriteLine("Data - Localização - StatusCorreio - Observação");
             foreach (Status status in pacote?.Historico)
             {
-                Console.WriteLine("{0:dd/MM/yyyy HH:mm} - {1} - {2} - {3}", status.Data, status.Localizacao, status.StatusCorreio, status.Obervacao);
+                Console.WriteLine("{0:dd/MM/yyyy HH:mm} - {1} - {2} - {3}", status.Data, status.Localizacao, status.StatusCorreio, status.Observacao);
                 Console.WriteLine("###############################################################");
             }
 
