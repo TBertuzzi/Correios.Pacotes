@@ -20,7 +20,7 @@ jobs:
       working-directory: 'Correios.Pacotes/'
       
     - name: Build
-      run: dotnet build Correios.Pacotes --configuration Release --no-restore
+      run: dotnet build . --configuration Release --no-restore
       working-directory: 'Correios.Pacotes/'
       
   job_2: 
@@ -55,7 +55,7 @@ jobs:
       working-directory: 'Correios.Pacotes/'
       
     - name: Build
-      run: dotnet build Correios.Pacotes --configuration Release --no-restore
+      run: dotnet build . --configuration Release --no-restore
       working-directory: 'Correios.Pacotes/'
       
     - name: Publish NuGet
